@@ -20,20 +20,11 @@ const dataabout = {
     aboutme: "Hello! I'm Ambar Gairola, a Cyber-Security enthusiast, currently pursuing B.Tech CSE in Cyber Security & Digital Forensics at UPES Dehradun. I also have a passion for cinematography and video editing.",
 };
 
-const worktimeline = [{
-        jobtitle: "Cybersecurity Intern",
-        where: "TechCorp",
-        date: "2023",
-    },
-    {
-        jobtitle: "Junior Cybersecurity Analyst",
-        where: "SecureTech",
-        date: "2022",
-    },
+const worktimeline = [
     {
         jobtitle: "Student Researcher",
         where: "UPES Dehradun",
-        date: "2021",
+        date: "2023",
     },
 ];
 
@@ -42,19 +33,15 @@ const skills = [{
         value: 90,
     },
     {
-        name: "JavaScript",
-        value: 80,
-    },
-    {
         name: "C++",
         value: 70,
     },
     {
-        name: "React",
-        value: 60,
+        name: "C",
+        value: 85,
     },
     {
-        name: "Cybersecurity",
+        name: "Video Editing",
         value: 85,
     },
 ];
@@ -67,72 +54,37 @@ const services = [{
         title: "Video Editing",
         description: "Professional video editing services for high-quality video content.",
     },
-    {
-        title: "Technical Consultation",
-        description: "Consultation services for various tech-related projects and problems.",
-    },
 ];
 
 const dataportfolio = [{
         img: "https://picsum.photos/400/?grayscale",
-        description: "Cybersecurity project analysis",
-        link: "#",
+        description: "Study Planner in Python",
+        link: "https://github.com/Ambar-07/studyPlanner",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "Film editing sample",
-        link: "#",
+        description: "Reels",
+        link: "https://www.instagram.com/p/C7WPkU2I12h/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "Technical consultation case study",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "Cybersecurity workshop",
-        link: "#",
+        description: "Short Film",
+        link: "https://www.youtube.com/watch?v=nKSFuKIREw4&t=228s",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        description: "Video project",
-        link: "#",
+        description: "C++ Practice",
+        link: "https://github.com/Ambar-07/DSA-practice",
     },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Tech review",
-        link: "#",
-    },
-
     {
         img: "https://picsum.photos/400/600/?grayscale",
         description: "Editing sample",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "Cybersecurity project",
-        link: "#",
+        link: "https://www.instagram.com/p/C4-g4-BvBHQ/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "Digital forensic analysis",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "Tech project",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "Film editing",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "Security assessment",
-        link: "#",
+        description: "Another reel",
+        link: "https://www.instagram.com/p/C4nfdkkJLgD/",
     },
 ];
 
