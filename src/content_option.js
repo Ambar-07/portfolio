@@ -12,7 +12,7 @@ const introdata = {
         third: "I'm passionate about tech and film",
     },
     description: "Hello! I'm Ambar Gairola, a Cyber-Security enthusiast, currently pursuing B.Tech CSE in Cyber Security & Digital Forensics at UPES Dehradun. I also have a passion for cinematography and video editing.",
-    your_img_url: "https://media.licdn.com/dms/image/v2/D5603AQHjOpHBVc7Sjw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1708684239160?e=2147483647&v=beta&t=2ccLoAblAPjSpbgytRh0WoQO1KVzKOa7ZkVsO35qXo8",
+    your_img_url: "https://yt3.googleusercontent.com/DyRE_dLrQWiZvsCWu6IeOVEa9OuDq_HJMchd9NdGGSMem2Dw1J5SH8rSKh9J9tp-QiiCe9SFrn0=s160-c-k-c0x00ffffff-no-rj",
 };
 
 const dataabout = {
