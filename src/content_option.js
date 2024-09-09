@@ -57,32 +57,32 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://en.wikiversity.org/wiki/Python#/media/File:Python.svg",
         description: "Study Planner in Python",
         link: "https://github.com/Ambar-07/studyPlanner",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
+        img: "https://w7.pngwing.com/pngs/796/55/png-transparent-instagram-logo-computer-icons-insta-logo-rectangle-sticker-circle.png",
         description: "Reels",
         link: "https://www.instagram.com/p/C7WPkU2I12h/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://www.digiplexmovies.com/wp-content/uploads/2018/07/1-41.jpg",
         description: "Short Film",
         link: "https://www.youtube.com/watch?v=nKSFuKIREw4&t=228s",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
+        img: "https://i.ytimg.com/vi/MhYECGUzdA4/sddefault.jpg",
         description: "C++ Practice",
         link: "https://github.com/Ambar-07/DSA-practice",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
+        img: "https://w7.pngwing.com/pngs/796/55/png-transparent-instagram-logo-computer-icons-insta-logo-rectangle-sticker-circle.png",
         description: "Editing sample",
         link: "https://www.instagram.com/p/C4-g4-BvBHQ/",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
+        img: "https://w7.pngwing.com/pngs/796/55/png-transparent-instagram-logo-computer-icons-insta-logo-rectangle-sticker-circle.png",
         description: "Another reel",
         link: "https://www.instagram.com/p/C4nfdkkJLgD/",
     },
