@@ -8,6 +8,6 @@ A simple portfolio built with React.
 - Multi-Page Layout
 - Contact Form With EmailJs
 - React-Bootstrap
-- Edit Content From One Place
+- Edit Content From One place
 
 
